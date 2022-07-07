@@ -9,7 +9,6 @@ https://docs.djangoproject.com/en/4.0/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.0/ref/settings/
 """
-from msilib.schema import Environment
 import os
 from pathlib import Path
 from dotenv import load_dotenv, find_dotenv
